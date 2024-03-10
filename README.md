@@ -13,7 +13,7 @@ olympic-history
 https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
 里面有两个csv文件，解压后，放到 数据库目录olympic-history
    
-3. 解压源代码
+3. 运行代码
    
 运行 ss app.py --port 8000
 
