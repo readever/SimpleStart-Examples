@@ -6,7 +6,14 @@
    
 pip3 install simplestart
 
-2. 解压源代码
+2. 数据库
+
+因为无法上传超过25M的文件，请自行到kaggle下载数据库
+olympic-history
+https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
+里面有两个csv文件，解压后，放到 数据库目录olympic-history
+   
+3. 解压源代码
    
 运行 ss app.py --port 8000
 
