@@ -16,10 +16,9 @@ https://blog.csdn.net/shinesoft/article/details/136216881
 
 数据库
 
-因为无法上传超过25M的文件，请自行到kaggle下载数据库
-olympic-history
-https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
-里面有两个csv文件，解压后，放到 数据库目录olympic-history
+因为无法上传超过25M的文件，所以对olympic-history中的一个数据文件athlete_events.csv进行了压缩，
+使用时，需要将athlete_events.csv.zip 解压
+
    
 
 # 例2 Data-Science-at-SWAST
